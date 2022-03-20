@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "./pictures/shoe-5.png",
+        "name": "gucci",
+        "price": "₹ 3450",
+        "star":"./pictures/Star 1.png",
+        "rating": 5.0,
+        "delivery": "29 March, Tuesday"
+    },
+    {
+        "id": 2,
+        "image": "./pictures/shoe-6.png",
+        "name": "Prada",
+        "price": "₹ 4560",
+        "star": "./pictures/Star 1.png",
+        "rating": 4.0,
+        "delivery": "24 March, Thursday"
+    },
+    {
+        "id": 3,
+        "image": "./pictures/shoe-3.png",
+        "name": "Fendi",
+        "price": "₹ 3100",
+        "star": "./pictures/Star 1.png",
+        "rating": 2.0,
+        "delivery": "21 March, Monday"
+    },
+    {
+        "id": 4,
+        "image": "./pictures/shoe-5.png",
+        "name": "ZARA",
+        "price": "₹ 4650",
+        "star": "./pictures/Star 1.png",
+        "rating": 1.0,
+        "delivery": "28 March, Monday"
+    },
+    {
+        "id": 5,
+        "image": "./pictures/shoe-6.png",
+        "name": "H&M",
+        "price": "₹ 5400",
+        "star": "./pictures/Star 1.png",
+        "rating": 5.0,
+        "delivery": "21 March, Monday"
+    },
+    {
+        "id": 6,
+        "image": "./pictures/shoe-3.png",
+        "name": "Adidas",
+        "price": "₹ 2360",
+        "star": "./pictures/Star 1.png",
+        "rating": 3.0,
+        "delivery": "26 March, Saturday"
+    },
+    {
+        "id": 7,
+        "image": "./pictures/shoe-5.png",
+        "name": "Puma",
+        "price": "₹ 3400",
+        "star": "./pictures/Star 1.png",
+        "rating": 2.0,
+        "delivery": "30 March, Wednesday"
+    },
+    {
+        "id": 8,
+        "image": "./pictures/shoe-6.png",
+        "name": "Woodland",
+        "price": "₹ 4650",
+        "star": "./pictures/Star 1.png",
+        "rating": 4.0,
+        "delivery": "31 March, Thursday"
+    },
+    {
+        "id": 9,
+        "image": "./pictures/shoe-3.png",
+        "name": "Chanel",
+        "price": "₹ 2400",
+        "star": "./pictures/Star 1.png",
+        "rating": 1.0,
+        "delivery": "28 March, Monday"
+    }
+]

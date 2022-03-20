@@ -1,0 +1,61 @@
+.page{
+    background-color: white;}
+    
+
+.pageName {
+    color: #17353D;
+    background-color:white;
+    text-align: center;
+   font-size: xxx-large;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.pageInfo {
+    background-color:white;
+    padding: 10px 200px 10px 200px;
+    color: black;
+    text-decoration:underline wavy rgb(233, 183, 91);
+    margin: 0;
+    font-weight: bolder;
+     box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search{
+    padding: 10px;
+    height: 12px;
+    border: none;
+    width: 100%;
+    text-align: center;
+}
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+.searching {
+    padding: 3px;
+}
+  
+.icon {
+    background-color:gray;
+    padding: 9.5px;
+    padding-bottom: 7px;
+    color: rgb(10, 1, 10);
+    min-width: 50px;
+    text-align: center;
+}
+  
+.input-field {
+    width: 25%;
+    padding: 3px;
+    text-align: center;
+}
